@@ -1,0 +1,5 @@
+--create .\Output\ChillerFWlib.lib
+.\output\delay_timer.o
+.\output\j12864.o
+.\output\stm32flash.o
+.\output\timer.o
